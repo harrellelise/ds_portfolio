@@ -1,12 +1,4 @@
 theme: minima
 title: Data Science Portfolio
 author: Elise 
-#Welcome to my Data Science Portfolio
-
-Hello! My name is Elise and I am a student at University. 
-
-This portfolio will showcase all of my data science projects, course work and other indpendent work. I enjoy working with data, and am incredibly passionate about ethical AI
-
- ##Course Projects
- project one
- project tow
+description: Working Data Science Portfolio for data science class spring semester showcasing coursework and projects. 
